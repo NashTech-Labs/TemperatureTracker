@@ -1,7 +1,7 @@
 # Temperature Tracker
 ## Getting started with code
 1. Setup jdk
-2. Clone this repository from https://github.com/Aasifali1/TemperatureTracker
+2. Clone this repository from https://github.com/knoldus/TemperatureTracker
 3. Run the application
 4. Access the url for dashboard http://localhost:8282
 5. To get all data as json http://localhost:8181/all
